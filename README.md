@@ -1,1 +1,3 @@
-# v9-accordion
+# v9 Accordion
+
+Legacy accordion repair
